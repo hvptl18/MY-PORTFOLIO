@@ -39,9 +39,12 @@ This space showcases the projects, certifications, and skills I have developed d
 - ✔ Gmail Productivity  
 - ✔ Google Drive Essentials  
 - ✔ Google Calendar Essentials  
-
-*(More certificates will be added as I complete them!)*
-
+![Google Docs Certificate](5.1.jpg)
+![Google Docs Certificate](5.2.jpg)
+![Google Docs Certificate](5.3.jpg)
+![Google Docs Certificate](5.4.jpg)
+![Google Docs Certificate](5.5.jpg)
+![Google Docs Certificate](5.6.jpg)
 ---
 
 ## 📂 Projects Completed in Sem 1
