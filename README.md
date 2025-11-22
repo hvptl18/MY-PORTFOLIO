@@ -70,8 +70,8 @@ Each project folder contains:
 ---
 
 ## 🤝 Connect with Me
-- **GitHub:** *(Add your GitHub link here)*  
-- **Email:** *(Add your email)*  
+- **GitHub:** *https://github.com/hvptl18*  
+- **Email:** *25cs060@charusat.edu.in*  
 
 ---
 
